@@ -7,6 +7,8 @@ The objective of this Project is to examine PyBer’s 2019 ride-sharing data, to
 ## Results
 The ride-sharing data among different city types was used to calculate different aspects such as:
  
+ ![This is an image](https://github.com/Josna-Aykkara/PyBer_Analysis/blob/main/Resources/Ride%20summary.JPG)
+ 
 •	**Total Rides** - Based on the data provided, we were able to determine that there was a larger demand for PyBer ride services among the urban cities, compared to suburban and rural cities. The above graph indicates that the Urban cities contributed about 1,625 rides in total to PyBer's rides overall over the five-month period.
 
 •	**Total Drivers** - As per the information, there are around 2,405 drivers count in Urban regions which is more than double the driver counts from Rural and Suburban regions. The urban drivers do better financially based on the above table because the number of rides is higher.
@@ -19,6 +21,8 @@ The above demonstrates that the average fare per ride is higher for rural driver
 It demonstrates that rural drivers are paid more as a whole per driver in comparison to suburban and urban drivers, and urban drivers are the lowest paid for each individual driver. Also, rural drivers are paid more for each ride, so their payment per ride, in comparison to suburban and urban drivers, and urban drivers are the lowest paid if each ride is judged the relevant unit of account for working in the ride sharing industry. This per driver analysis clearly contrasts with the whole total fare graphical perspective which seems to demonstrate that urban drivers as a unit are paid better than suburban and rural drivers as a unit.
 
 •	**Total Fare by City Type** - The below line chart enlightens us that the total fare by city type from January to April 2019. The rides and the total fares are the highest for Urban region, followed by Suburban and finally by Rural region. The company has to identify the reason for the low income from rural regions and work on improving the performance by providing more training.
+ 
+  ![This is an image](https://github.com/Josna-Aykkara/PyBer_Analysis/blob/main/Resources/Total%20Fare%20by%20City%20Type.jpeg)
  
 
 ## Summary
